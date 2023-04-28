@@ -2,4 +2,4 @@
 
 for(i=1; i<jusik.length; i++){
   
-}
+}111112
