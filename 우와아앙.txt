@@ -1,1 +1,5 @@
 부르르르르릉
+
+for(i=1; i<jusik.length; i++){
+  
+}
